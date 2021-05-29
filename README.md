@@ -1,3 +1,3 @@
 #Atoyebi Adesoji Oyetunji
-#Recreating Google Homepage
-#Zuri-Task
+# Responsive Google-Homepage
+Re-creating Google Search Homepage
